@@ -17,5 +17,6 @@ public class Scannerexmpl {
     sp.a=sc.nextInt();
     sp.b=sc.nextInt();
     System.out.println(sp.a+"\t"+sp.b);
+    
     }
 }
