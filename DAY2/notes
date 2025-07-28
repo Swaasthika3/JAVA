@@ -1,0 +1,19 @@
+//prepend
+node newNode=new Node(data);
+if(head==null){
+    head=newNode;
+    tail=newNode
+}
+newNode.next=head;;
+head=newNode
+//append
+node newNode=new Node(data);
+if(head==null){
+    head=newNode;
+    tail=newNode
+
+}
+tail.next=newNode;
+tail=newnode;
+//remove
+if(head==-)
